@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Alex Shanghai</folder>
+	<filename>Shanghai_489.jpg</filename>
+	<path>C:\Users\Alex\Desktop\Alex Shanghai\Shanghai_489.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>68</ymin>
+			<xmax>553</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>569</xmin>
+			<ymin>62</ymin>
+			<xmax>643</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

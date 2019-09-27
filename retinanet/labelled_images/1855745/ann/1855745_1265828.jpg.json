@@ -1,0 +1,1 @@
+{"description": "", "tags": [], "size": {"height": 256, "width": 256}, "objects": [{"description": "", "bitmap": null, "tags": [], "classTitle": "edge_of_road", "points": {"exterior": [[39, 28], [2, 42]], "interior": []}}, {"description": "", "bitmap": null, "tags": [], "classTitle": "edge_of_road", "points": {"exterior": [[42, 29], [169, 22]], "interior": []}}]}
