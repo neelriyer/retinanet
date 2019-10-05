@@ -17,9 +17,9 @@ Focal Loss is an improvement on cross-entropy loss that helps to reduce the rela
 
 # Screenshots
 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/01.png) 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/02.png) 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/03.png) 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/04.png) 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/05.png) 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/06.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/01.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/02.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/03.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/04.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/05.png) 
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/06.png) 
