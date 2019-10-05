@@ -10,7 +10,6 @@ Pyramid networks have been used conventionally to identify objects at different 
 <br /> 
 Focal Loss for Dense Object Detection:
 <br /> 
-<br /> 
 Focal Loss is an improvement on cross-entropy loss that helps to reduce the relative loss for well-classified examples and putting more focus on hard, misclassified examples.
 
 ![img](https://miro.medium.com/max/293/1*CYC-i9kQX5HMRoakioOqGw.png)
