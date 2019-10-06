@@ -1,3 +1,7 @@
+# Screenshots
+
+![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/01.png) 
+
 # Retinanet
 RetinaNet has been formed by making two improvements over existing single stage object detection models (like YOLO and SSD): Feature Pyramid Networks for Object Detection, Focal Loss for Dense Object Detection.
 <br /> 
@@ -18,9 +22,8 @@ Focal Loss is an improvement on cross-entropy loss that helps to reduce the rela
 # Dataset
 [Uses spacenet dataset](https://spacenetchallenge.github.io/datasets/spacenetRoads-summary.html) 
 
-# Screenshots
+# More Screenshots
 
-![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/01.png) 
 ![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/02.png) 
 ![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/03.png) 
 ![img](https://raw.githubusercontent.com/spiyer99/retinanet/master/test_img/04.png) 
