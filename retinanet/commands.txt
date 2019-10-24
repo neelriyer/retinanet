@@ -1,14 +1,12 @@
 
+
+SPACENET
 1. run tf_to_retinanet
 2. run training_test_split
 3. run delete_row
 
-keras_retinanet/bin/convert_model.py snapshots/resnet50_csv_01.h5 snapshots/resnet50_csv_01_inference.h5 
-
-
 
 4. run: keras_retinanet/bin/train.py --weights snapshots/resnet50_coco_best_v2.1.0.h5  --config config.ini csv train_annotations_new_data.csv labels_new_data.csv --val-annotations val_annotations_new_data.csv
-
 
 
 retinanet-train --weights resnet50_coco_best_v2.1.0.h5 \
@@ -18,12 +16,11 @@ csv dataset/train.csv dataset/classes.csv
 
 
 
-
-
 keras_retinanet/bin/train.py --weights snapshots/resnet50_coco_best_v2.1.0.h5  --config config.ini csv train_annotations.csv labels.csv --val-annotations val_annotations.csv
 
 
+5.keras_retinanet/bin/convert_model.py snapshots/resnet50_csv_01.h5 snapshots/resnet50_csv_01_inference.h5 
 
 
-
-
+SUPERVISELY
+1.
