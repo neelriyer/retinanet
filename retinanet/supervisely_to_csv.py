@@ -41,16 +41,27 @@ def calculate_angle(y_distance, x_distance):
 
 	return angle
 
-def start_finish_coordinates(start, finish):
+#function to create bounding box from driveways line
+#(use bbox instead)
+def bbox_driveways_line(points):
 
-	#get x and y coordiantes
-	#starts
-	x_start = start[0] 
-	y_start = start[1] 
+	#get starts and finishes
+	start = points[0]
+	finish = points[1]
 
-	#finish
-	x_finish = finish[0] 
-	y_finish = finish[1] 
+	#get x and y coords
+	x_coords = [start[0], finish[0]]
+	y_coords = [start[1], finish[1]]
+
+	#get bottom left and top right
+	bottom_left = [min(x_coords), min(y_coords)]
+	top_right = [max(x_coords), max(y_coords)]
+
+	#initialise x and y starts and finishes
+	x_start = bottom_left[0]
+	y_start = bottom_left[1]
+	x_finish = top_right[0]
+	y_finish = top_right[1]
 
 	#if x_start is equal to x_finish increment x_finish by 1
 	if(x_start==x_finish):
@@ -64,7 +75,7 @@ def start_finish_coordinates(start, finish):
 
 #function to return max width and height of bounding box
 #creates an all encompasing bounding box
-def width_height(points):
+def bbox(points):
 
 	#list of coordiantes
 	x_coord = []
@@ -76,7 +87,15 @@ def width_height(points):
 		x_coord.append(int(pt[0]))
 		y_coord.append(int(pt[1]))
 
-	return min(x_coord), min(y_coord), max(x_coord), max(y_coord)
+	#initialise starts and finishes
+	x_start, y_start, x_finish, y_finish = min(x_coord), min(y_coord), max(x_coord), max(y_coord)
+
+	if(x_start == x_finish):
+		x_finish = x_finish + 1
+	if(y_start == y_finish):
+		y_finish = y_finish + 1
+
+	return x_start, y_start, x_finish, y_finish
 
 	
 
@@ -102,27 +121,47 @@ def JSON_to_dataframe(path, folder_name):
 			path_to_img = os.getcwd() + '/labelled_images/' + folder_name + '/img/' + location + '.jpg'
 			print(path_to_img)
 
+			#read coordinates from JSON
+			points = objects_list[i]['points']['exterior']
 
-			#driveway found
+			#parkinglot found
 			if(objects_list[i]['classTitle']=='Poly'):
 				print('parkinglot detected')
-
-				points = objects_list[i]['points']['exterior']
 				print(points)
 
+				#get bounding box for parkignlot
+				x_start, y_start, x_finish, y_finish = bbox(points)
 
-				#get width and height for parkignlot
-				x_start, y_start, x_finish, y_finish = width_height(points)
-
+				#print out x_start, y_start, x_finish, y_finish
 				print('x_start is ' + str(x_start))
 				print('y_start is ' + str(y_start))
-
 				print('x_finish is ' + str(x_finish))
 				print('y_finish is ' + str(y_finish))
 				print('\n\n')
 
+				#append to dataframe
 				df2 = {'path': path_to_img, 'x_start': x_start, 'y_start': y_start, 'x_finish': x_finish, 'y_finish': y_finish, 'class_title': 'parking lot'}
 				df = df.append(df2, ignore_index = True)
+
+
+			#driveway found
+			elif(objects_list[i]['classTitle']=='driveways_line'):
+				print('driveway detected')
+				print(points)
+
+				x_start, y_start, x_finish, y_finish = bbox(points)
+
+				#print out x_start, y_start, x_finish, y_finish
+				print('x_start is ' + str(x_start))
+				print('y_start is ' + str(y_start))
+				print('x_finish is ' + str(x_finish))
+				print('y_finish is ' + str(y_finish))
+				print('\n\n')
+
+				#append to dataframe
+				df2 = {'path': path_to_img, 'x_start': x_start, 'y_start': y_start, 'x_finish': x_finish, 'y_finish': y_finish, 'class_title': 'driveway'}
+				df = df.append(df2, ignore_index = True)
+
 
 		try:
 			final_df = df[['path', 'x_start', 'y_start', 'x_finish', 'y_finish', 'class_title']]
