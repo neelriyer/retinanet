@@ -40,10 +40,48 @@ def calculate_angle(y_distance, x_distance):
 		angle = 90
 
 	return angle
+
+def start_finish_coordinates(start, finish):
+
+	#get x and y coordiantes
+	#starts
+	x_start = start[0] 
+	y_start = start[1] 
+
+	#finish
+	x_finish = finish[0] 
+	y_finish = finish[1] 
+
+	#if x_start is equal to x_finish increment x_finish by 1
+	if(x_start==x_finish):
+		x_finish = x_finish + 1
+
+	#if y_start is equal to y_finish increment y_finish by 1
+	if(y_start==y_finish):
+		y_finish = y_finish + 1
+
+	return x_start, y_start, x_finish, y_finish
+
+#function to return max width and height of bounding box
+#creates an all encompasing bounding box
+def width_height(points):
+
+	#list of coordiantes
+	x_coord = []
+	y_coord = []
+
+	for pt in points:
+
+		#append x and y coordinates
+		x_coord.append(int(pt[0]))
+		y_coord.append(int(pt[1]))
+
+	return min(x_coord), min(y_coord), max(x_coord), max(y_coord)
+
 	
 
 #function to take json file from path and convert the information inside to a pandas dataframe
-def JSON_to_dataframe(path):
+def JSON_to_dataframe(path, folder_name):
 
 	with open(path, 'r') as f:
 
@@ -59,57 +97,32 @@ def JSON_to_dataframe(path):
 		#get coordinates into dataframe
 		for i in range(len(objects_list)):
 
+			#get location of iamge
 			location = path.split('/')[-1].split('.')[0]
-			folder_name = location.split('_')[0]
 			path_to_img = os.getcwd() + '/labelled_images/' + folder_name + '/img/' + location + '.jpg'
 			print(path_to_img)
 
 
-			#start and finish coordinates of each line
-			start = objects_list[i]['points']['exterior'][0]
-			finish = objects_list[i]['points']['exterior'][1]
+			#driveway found
+			if(objects_list[i]['classTitle']=='Poly'):
+				print('parkinglot detected')
 
-			#get x and y coordiantes
-			#starts
-			x_start = start[0] 
-			y_start = start[1] 
+				points = objects_list[i]['points']['exterior']
+				print(points)
 
-			#finish
-			x_finish = finish[0] 
-			y_finish = finish[1] 
 
-			#if x_start is greater than x_finish swap x_start and x_finish
-			if(x_start>x_finish):
-				temp = x_start
-				x_start = x_finish
-				x_finish = temp
-				#print('swapped')
+				#get width and height for parkignlot
+				x_start, y_start, x_finish, y_finish = width_height(points)
 
-			#if y_start is greater than y_finish swap y_start and y_finish
-			if(y_start>y_finish):
-				temp = y_start
-				y_start = y_finish
-				y_finish = temp
-				#print('swapped')
+				print('x_start is ' + str(x_start))
+				print('y_start is ' + str(y_start))
 
-			#if x_start is equal to x_finish increment x_finish by 1
-			if(x_start==x_finish):
-				x_finish = x_finish + 1
+				print('x_finish is ' + str(x_finish))
+				print('y_finish is ' + str(y_finish))
+				print('\n\n')
 
-			#if y_start is equal to y_finish increment y_finish by 1
-			if(y_start==y_finish):
-				y_finish = y_finish + 1
-				
-
-			print('x_start is ' + str(x_start))
-			print('x_finish is ' + str(x_finish))
-
-			print('y_start is ' + str(y_start))
-			print('y_finish is ' + str(y_finish))
-			print('\n\n')
-
-			df2 = {'path': path_to_img, 'x_start': x_start, 'y_start': y_start, 'x_finish': x_finish, 'y_finish': y_finish, 'class_title': objects_list[i]['classTitle']}
-			df = df.append(df2, ignore_index = True)
+				df2 = {'path': path_to_img, 'x_start': x_start, 'y_start': y_start, 'x_finish': x_finish, 'y_finish': y_finish, 'class_title': 'parking lot'}
+				df = df.append(df2, ignore_index = True)
 
 		try:
 			final_df = df[['path', 'x_start', 'y_start', 'x_finish', 'y_finish', 'class_title']]
@@ -132,11 +145,20 @@ def create_directory(directory_name):
 #create new directory
 create_directory(Dataset)
 
+#return list of all folders in directory
+def list_of_all_folders(directory):
 
-x_files = ['1855744','1855745','1855746', '1855747']
+	return next(os.walk(directory))[1]
+
+
+
+x_files = list_of_all_folders(os.getcwd()+'/labelled_images/')
+print(x_files)
+
 
 df = pd.DataFrame()
 
+#for each x_file
 for x in x_files:
 
 	#get all requires files in this folder
@@ -152,7 +174,7 @@ for x in x_files:
 		path = os.getcwd()+'/labelled_images/'+str(x)+'/ann/' + file
 		#print(path)
 
-		df = df.append(JSON_to_dataframe(path), ignore_index = True)
+		df = df.append(JSON_to_dataframe(path, x), ignore_index = True)
 
 
 
@@ -165,6 +187,6 @@ if(df is not None):
 	df['y_finish'] = df['y_finish'].apply(lambda row: int(row))
 	#print(df)
 
-	df.to_csv(os.getcwd()+'/'+Dataset'/'+'retinanet_data'+'.csv', header=True, index=None, sep=',', mode='a')
+	df.to_csv(os.getcwd()+'/'+Dataset+'/'+'retinanet_data'+'.csv', header=True, index=None, sep=',', mode='a')
 
 

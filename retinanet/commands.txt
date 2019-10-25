@@ -23,4 +23,4 @@ keras_retinanet/bin/train.py --weights snapshots/resnet50_coco_best_v2.1.0.h5  -
 
 
 SUPERVISELY
-1.
+1.retinanet_prepare.py
