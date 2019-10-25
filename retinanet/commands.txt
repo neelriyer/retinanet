@@ -1,6 +1,8 @@
 
 
 SPACENET
+0. pip install . --user.
+0. python setup.py build_ext --inplace
 1. run tf_to_retinanet
 2. run training_test_split
 3. run delete_row
