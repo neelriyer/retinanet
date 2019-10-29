@@ -115,6 +115,10 @@ if os.path.exists(os.getcwd()+'/test_annotations.csv'):
 training_df = training_df.drop(['image', 'x', 'y'], axis = 1)
 testing_df = testing_df.drop(['image', 'x', 'y'], axis = 1)
 
+#length
+print(len(testing_df))
+print(len(training_df))
+
 #write to csv
 testing_df.to_csv(os.getcwd()+'/train_annotations.csv', header=True, index=None, sep=',', mode='a')
 training_df.to_csv(os.getcwd()+'/test_annotations.csv', header=True, index=None, sep=',', mode='a')
