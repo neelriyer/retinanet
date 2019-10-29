@@ -143,9 +143,11 @@ def create_directory(directory_name):
 create_directory('processed_JSON')
 
 
-x_files = ['1855744','1855745','1855746', '1855747']
+x_files = next(os.walk('labelled_images/'))[1]
+
 
 df = pd.DataFrame()
+
 
 for x in x_files:
 
@@ -175,6 +177,6 @@ if(df is not None):
 	df['y_finish'] = df['y_finish'].apply(lambda row: int(row))
 	#print(df)
 
-	df.to_csv(os.getcwd()+'/processed_JSON/'+'retinanet_data'+'.csv', header=True, index=None, sep=',', mode='a')
+	df.to_csv(os.getcwd()+'/processed_JSON/'+'retinanet_data_supervisely'+'.csv', header=True, index=None, sep=',', mode='a')
 
 

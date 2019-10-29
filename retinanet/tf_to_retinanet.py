@@ -33,5 +33,5 @@ new_data = data[['path', 'x_start', 'y_start', 'x_finish', 'y_finish', 'class_ti
 new_data = type_conversion(new_data, ['x_start', 'y_start', 'x_finish', 'y_finish'])
 
 #export
-new_data.to_csv(os.getcwd()+'/processed_JSON/retinanet_data.csv', header=True, index=None, sep=',')
+new_data.to_csv(os.getcwd()+'/processed_JSON/retinanet_data_spacenet.csv', header=True, index=None, sep=',')
 

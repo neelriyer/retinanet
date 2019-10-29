@@ -1,590 +1,613 @@
 path,x_start,y_start,x_finish,y_finish,class_title
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265805.jpg,0,61,171,157,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265805.jpg,0,275,108,364,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265805.jpg,0,387,201,492,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265805.jpg,0,615,127,703,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265824.jpg,100,76,110,180,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265830.jpg,60,417,63,510,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265837.jpg,363,2,498,598,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265857.jpg,0,644,767,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,1,389,765,520,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,0,583,767,709,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,0,670,768,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265859.jpg,0,322,768,453,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265859.jpg,0,132,768,263,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265859.jpg,0,413,768,545,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265859.jpg,0,554,768,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265860.jpg,0,66,767,198,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265860.jpg,0,154,767,294,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265860.jpg,0,291,765,554,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265862.jpg,0,1,764,31,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,335,408,396,412,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,574,394,653,397,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,62,422,143,425,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,35,400,60,421,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,32,361,33,394,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,333,551,390,552,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,584,537,642,539,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265880.jpg,11,1,12,26,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,333,39,388,44,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,582,24,642,30,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,66,558,71,625,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265885.jpg,96,288,104,411,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265889.jpg,162,259,163,322,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265889.jpg,17,324,18,375,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265889.jpg,170,467,173,536,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265889.jpg,29,580,33,651,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265889.jpg,177,582,180,627,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,204,1,208,55,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,301,738,356,741,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,83,551,86,584,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,65,586,76,595,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,22,601,60,602,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,722,559,768,562,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,731,702,764,703,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265900.jpg,166,197,177,322,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265900.jpg,323,186,329,249,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265900.jpg,340,430,345,497,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,403,2,410,59,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,441,702,452,742,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,550,744,606,749,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,672,744,760,745,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,280,722,297,755,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265906.jpg,252,762,274,766,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265915.jpg,396,98,398,217,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265915.jpg,542,87,546,152,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265915.jpg,556,339,561,410,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265915.jpg,421,577,423,654,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265915.jpg,570,593,578,658,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265916.jpg,424,324,425,407,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265916.jpg,556,81,564,152,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265916.jpg,575,342,577,392,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265916.jpg,589,548,591,615,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265916.jpg,437,594,441,662,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,589,37,593,98,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,431,85,438,143,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,451,317,453,390,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,600,274,604,371,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,463,572,473,645,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265918.jpg,625,655,632,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,453,59,462,132,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,463,317,469,385,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,621,405,627,509,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,604,27,605,110,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,491,712,492,756,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,642,701,643,751,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265931.jpg,625,8,632,66,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265931.jpg,394,637,492,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265937.jpg,606,645,613,708,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265937.jpg,497,628,501,691,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265939.jpg,498,108,500,174,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265939.jpg,610,129,611,199,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265939.jpg,515,445,519,515,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265939.jpg,504,215,505,249,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265939.jpg,633,579,634,645,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265944.jpg,589,470,590,546,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265944.jpg,679,12,682,84,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265944.jpg,703,465,704,543,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,742,309,751,385,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,752,455,755,512,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,766,695,767,762,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265966.jpg,207,72,317,86,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265970.jpg,95,685,148,686,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265970.jpg,183,674,229,681,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265970.jpg,618,635,721,640,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265974.jpg,487,546,493,601,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265980.jpg,426,197,427,250,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265980.jpg,558,157,568,271,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265980.jpg,440,451,444,502,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,425,596,557,603,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,37,618,163,627,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,525,759,745,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265826.jpg,73,635,124,636,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265826.jpg,223,620,281,633,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265827.jpg,68,380,120,381,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265827.jpg,68,546,121,548,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265827.jpg,471,515,608,525,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265827.jpg,220,368,283,369,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265827.jpg,491,354,563,355,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265861.jpg,2,54,363,289,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265897.jpg,40,433,42,499,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265899.jpg,54,193,55,253,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265899.jpg,68,437,70,506,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265899.jpg,85,686,89,752,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265906.jpg,406,733,506,746,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265906.jpg,443,21,561,26,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265907.jpg,408,480,516,492,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265907.jpg,540,618,679,629,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265907.jpg,309,643,364,646,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265907.jpg,297,492,350,493,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265908.jpg,543,358,681,372,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265908.jpg,305,385,360,386,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265908.jpg,295,233,354,234,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265908.jpg,409,227,509,229,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265913.jpg,109,115,110,232,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265913.jpg,271,267,272,325,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265913.jpg,253,1,254,27,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265913.jpg,288,603,293,670,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265913.jpg,140,600,144,725,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,610,399,684,406,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,231,196,235,259,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,388,192,390,238,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,83,581,143,582,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,44,436,104,437,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265921.jpg,426,575,458,611,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,373,260,377,320,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,532,313,537,370,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,546,548,547,621,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,394,629,397,678,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,512,0,515,63,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265930.jpg,358,9,360,73,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265937.jpg,351,646,356,712,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265937.jpg,245,622,246,689,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265939.jpg,245,109,247,174,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265939.jpg,356,132,357,199,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265939.jpg,270,438,271,511,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265939.jpg,381,585,383,650,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265948.jpg,370,182,373,254,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265948.jpg,490,253,496,320,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265948.jpg,388,452,395,558,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265948.jpg,502,504,507,569,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265948.jpg,516,732,521,768,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,532,222,539,288,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,547,463,550,532,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,415,174,416,214,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,518,1,521,47,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,433,462,437,530,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,561,728,562,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,516,183,519,252,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,622,122,627,181,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,640,374,642,450,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,525,390,529,440,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,537,685,543,765,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265958.jpg,656,646,660,720,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,356,122,458,129,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,670,101,721,107,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,529,325,583,327,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265973.jpg,525,70,579,73,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265974.jpg,236,542,240,601,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265974.jpg,102,604,107,661,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,133,125,139,190,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,268,119,272,186,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,150,377,157,468,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,288,401,289,454,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,171,712,174,766,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265978.jpg,303,668,309,768,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,511,335,578,338,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,240,355,324,356,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,214,519,348,525,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,536,496,621,497,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265829.jpg,217,2,352,13,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265829.jpg,546,0,620,1,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265839.jpg,429,55,746,164,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265839.jpg,222,86,371,157,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265840.jpg,523,671,646,766,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265840.jpg,724,586,766,766,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265854.jpg,709,95,724,378,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265865.jpg,0,473,508,614,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265882.jpg,72,22,136,29,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265882.jpg,522,0,574,3,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265893.jpg,208,564,274,565,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265893.jpg,465,544,523,548,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265893.jpg,222,700,286,703,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265893.jpg,470,685,586,689,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265893.jpg,706,529,765,535,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265913.jpg,10,270,12,325,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265913.jpg,29,600,34,670,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265923.jpg,633,15,709,17,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265926.jpg,207,278,210,335,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265926.jpg,66,394,68,456,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265930.jpg,115,259,118,318,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265930.jpg,274,309,278,371,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265930.jpg,285,547,292,627,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265930.jpg,139,627,141,675,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265930.jpg,253,0,259,61,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,286,285,291,376,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,300,554,305,621,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,272,56,274,116,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,115,8,118,59,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,141,370,144,423,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265931.jpg,147,548,153,613,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265932.jpg,309,441,320,583,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265932.jpg,284,27,295,119,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265932.jpg,302,292,303,358,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265932.jpg,162,569,168,664,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,310,186,320,330,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,162,321,169,412,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,299,37,305,102,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,143,0,147,34,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265938.jpg,94,388,100,461,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265938.jpg,144,259,318,356,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265938.jpg,171,434,369,550,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265941.jpg,135,313,140,371,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265941.jpg,150,553,153,608,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265941.jpg,121,73,128,133,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265941.jpg,23,318,34,454,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265946.jpg,90,204,94,320,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265946.jpg,217,461,224,565,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265946.jpg,116,693,121,766,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265946.jpg,77,2,79,29,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,87,1,90,66,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,217,204,225,309,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,115,440,118,518,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,238,511,242,578,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,128,709,129,762,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,133,1,140,48,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,247,1,249,56,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,261,233,264,289,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,160,424,161,473,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,279,472,280,539,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,289,725,292,763,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265950.jpg,175,725,176,765,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,306,222,309,284,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,197,413,201,528,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,325,657,334,756,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,291,1,295,22,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265954.jpg,196,158,206,268,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265954.jpg,328,405,332,502,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265954.jpg,337,649,346,703,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265954.jpg,305,1,306,27,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,353,383,360,450,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,235,305,239,385,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,242,456,245,514,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,344,130,346,192,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,254,689,260,766,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,369,629,371,700,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,266,128,267,189,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,387,123,390,185,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,282,433,289,530,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,401,394,402,459,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,402,518,406,572,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265959.jpg,295,649,300,692,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265973.jpg,268,69,324,76,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265973.jpg,727,34,767,38,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,84,309,237,315,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,347,303,459,304,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,270,380,363,510,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,475,383,766,469,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,68,242,233,255,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,263,237,331,241,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,536,219,598,225,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265814.jpg,336,305,380,351,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265815.jpg,333,46,377,95,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265827.jpg,542,318,608,320,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265827.jpg,259,338,328,339,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265827.jpg,281,498,368,501,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265827.jpg,1,352,48,355,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265827.jpg,1,513,89,518,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265852.jpg,446,605,460,768,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265856.jpg,620,351,637,649,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265856.jpg,592,3,655,262,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265857.jpg,618,90,636,389,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265857.jpg,527,592,536,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265857.jpg,0,631,113,733,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,525,336,549,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,630,3,643,271,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,651,332,668,653,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,376,117,480,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,557,259,664,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,646,406,755,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265867.jpg,124,334,290,344,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265867.jpg,0,0,239,81,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265868.jpg,125,76,291,88,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265873.jpg,748,272,754,373,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265874.jpg,747,15,757,121,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,32,279,36,375,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,17,52,20,122,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,45,548,48,614,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,123,598,593,714,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,586,501,768,607,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,597,686,767,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265931.jpg,55,697,59,768,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,117,88,600,207,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,140,276,612,412,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,644,173,767,267,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,48,35,52,102,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,57,189,67,327,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265933.jpg,639,0,768,91,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265953.jpg,46,220,51,281,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265953.jpg,73,654,74,718,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265953.jpg,72,716,76,759,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265953.jpg,35,0,37,28,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265970.jpg,152,609,207,613,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265970.jpg,457,585,521,588,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265973.jpg,11,62,71,70,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265973.jpg,468,21,593,31,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265982.jpg,692,214,765,221,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265982.jpg,673,341,728,345,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279104.jpg,339,3,510,354,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279104.jpg,146,356,377,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279104.jpg,444,589,509,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279105.jpg,345,1,450,107,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279105.jpg,49,97,384,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279105.jpg,347,325,512,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279106.jpg,0,3,345,765,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279106.jpg,355,68,512,574,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279107.jpg,2,0,248,632,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279107.jpg,354,1,512,321,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279108.jpg,2,0,155,375,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279114.jpg,2,256,469,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279114.jpg,0,407,325,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279114.jpg,0,531,217,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279114.jpg,0,683,74,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279123.jpg,3,77,268,391,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279126.jpg,0,434,232,720,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279130.jpg,27,1,214,97,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279130.jpg,79,716,185,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279135.jpg,419,206,510,530,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,271,0,418,327,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,448,56,512,393,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,409,488,498,575,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,204,451,298,534,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,170,642,262,705,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279139.jpg,152,746,244,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279050.jpg,444,83,480,110,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279053.jpg,344,409,677,721,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279055.jpg,309,575,550,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279055.jpg,632,556,768,733,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279055.jpg,440,0,679,200,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279060.jpg,0,123,307,372,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279060.jpg,463,469,768,714,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279060.jpg,545,28,730,189,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279060.jpg,26,0,397,251,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279068.jpg,0,1,246,160,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279068.jpg,134,683,199,712,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279071.jpg,4,75,768,528,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279071.jpg,416,39,479,71,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279077.jpg,139,611,385,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279088.jpg,3,515,167,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279088.jpg,674,150,768,525,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279090.jpg,0,13,117,214,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279090.jpg,67,183,188,337,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279090.jpg,144,319,274,507,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279090.jpg,222,499,330,649,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279090.jpg,271,661,356,766,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279091.jpg,104,3,256,200,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279091.jpg,200,202,314,361,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279091.jpg,257,367,360,534,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279091.jpg,297,538,390,763,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258782.jpg,271,415,296,471,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258783.jpg,276,160,300,213,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258806.jpg,76,415,399,631,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258806.jpg,433,250,512,453,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258806.jpg,265,626,409,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258808.jpg,94,0,391,125,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258808.jpg,291,118,417,268,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258841.jpg,470,491,511,596,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258841.jpg,382,302,454,320,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258854.jpg,435,523,451,639,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,103,638,158,647,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,190,652,231,659,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,296,670,333,677,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,395,687,437,693,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,487,702,511,706,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,438,485,485,563,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,145,432,204,521,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258864.jpg,0,625,40,631,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,294,159,332,168,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,395,176,438,184,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,489,192,510,196,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,190,143,229,149,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,104,129,159,137,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,0,113,39,120,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258866.jpg,428,0,480,57,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258796.jpg,384,412,402,476,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258800.jpg,52,640,125,676,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258802.jpg,48,130,119,166,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258803.jpg,352,604,608,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258818.jpg,689,496,768,518,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258833.jpg,701,570,749,650,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258842.jpg,381,44,459,69,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258842.jpg,480,166,601,342,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258842.jpg,0,433,165,642,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,147,439,201,525,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,602,517,767,620,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,511,499,576,512,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,191,649,234,652,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,101,635,156,642,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,294,666,339,671,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,399,683,438,688,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,494,698,529,704,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,624,717,692,731,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,191,136,236,144,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,296,152,338,162,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,397,171,440,176,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,491,190,534,195,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,103,129,155,135,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,624,218,686,228,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,608,3,768,107,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,430,0,484,69,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258869.jpg,743,224,751,279,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258869.jpg,730,287,742,355,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258787.jpg,2,530,91,558,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,172,104,369,461,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,1,480,142,633,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,45,633,146,764,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258813.jpg,197,109,227,232,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258813.jpg,72,551,106,675,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258817.jpg,430,750,498,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258838.jpg,2,3,407,487,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258838.jpg,0,1,199,193,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258840.jpg,120,557,200,576,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258840.jpg,243,681,347,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258848.jpg,713,63,727,128,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258848.jpg,677,272,684,310,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258848.jpg,654,461,660,503,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258849.jpg,650,209,656,250,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258849.jpg,682,22,687,59,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258849.jpg,589,530,611,669,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258849.jpg,442,82,472,285,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258857.jpg,522,219,699,248,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258861.jpg,740,583,767,587,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258863.jpg,742,71,767,75,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258777.jpg,612,173,631,214,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258787.jpg,720,479,747,571,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258790.jpg,3,59,170,105,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258804.jpg,0,413,149,547,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258804.jpg,0,625,106,767,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258806.jpg,0,114,102,268,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258806.jpg,0,241,74,343,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258807.jpg,299,570,412,765,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258807.jpg,442,578,572,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258819.jpg,178,239,254,263,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258836.jpg,0,85,491,693,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258836.jpg,0,19,289,414,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,460,323,470,382,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,492,134,500,187,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,430,521,436,570,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,397,722,404,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258852.jpg,273,173,283,235,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258852.jpg,20,406,28,465,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258852.jpg,225,523,233,594,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258853.jpg,223,281,232,339,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258853.jpg,19,154,29,219,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258853.jpg,248,123,253,162,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258856.jpg,262,472,382,496,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258856.jpg,519,519,606,531,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258856.jpg,713,549,765,554,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258857.jpg,266,220,425,246,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258857.jpg,519,261,607,278,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258857.jpg,714,293,767,300,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258861.jpg,481,582,560,594,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,624,343,673,350,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,114,473,177,483,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,0,456,21,460,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,89,259,278,365,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,542,332,623,428,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,671,353,768,444,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258865.jpg,0,244,55,255,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258867.jpg,463,562,471,621,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258867.jpg,231,740,235,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258784.jpg,416,650,448,767,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258786.jpg,409,140,448,267,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258786.jpg,527,540,547,611,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258788.jpg,526,37,546,109,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258788.jpg,466,238,489,315,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258825.jpg,611,506,631,585,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258825.jpg,560,690,579,758,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258834.jpg,9,588,232,768,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258844.jpg,123,264,137,357,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258844.jpg,96,448,107,507,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258844.jpg,301,456,316,545,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258844.jpg,269,708,276,746,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,206,51,216,116,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,173,306,180,350,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,145,472,154,511,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258814.jpg,595,192,613,301,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258814.jpg,535,515,555,611,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258814.jpg,746,508,758,573,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258824.jpg,296,401,318,525,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258824.jpg,142,127,166,241,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258824.jpg,260,665,275,752,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258825.jpg,261,409,274,499,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258825.jpg,292,176,311,275,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258829.jpg,99,310,104,334,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258829.jpg,134,54,149,142,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258829.jpg,73,460,82,503,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258836.jpg,535,576,550,609,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258836.jpg,499,615,534,630,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258836.jpg,458,633,493,636,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258840.jpg,5,689,380,753,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258869.jpg,423,620,500,634,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258869.jpg,525,640,613,655,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,364,483,423,499,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,508,521,576,538,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,644,556,710,573,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,87,413,229,450,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,426,324,478,336,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258882.jpg,605,370,650,377,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258805.jpg,1,244,50,258,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258805.jpg,669,675,682,739,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258808.jpg,664,3,668,22,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258808.jpg,751,629,760,691,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258809.jpg,750,355,764,435,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258819.jpg,324,94,347,235,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258819.jpg,284,404,303,513,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258827.jpg,78,428,134,440,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258827.jpg,299,470,350,481,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258832.jpg,4,19,281,139,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258832.jpg,419,378,426,424,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258832.jpg,396,475,410,567,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258832.jpg,381,583,392,652,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258832.jpg,459,617,466,667,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258852.jpg,743,522,757,611,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,176,578,224,590,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,346,622,394,633,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,104,742,175,760,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258809.jpg,490,380,499,434,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258817.jpg,142,213,159,306,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258817.jpg,120,430,125,458,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258817.jpg,185,0,202,83,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258817.jpg,71,598,92,738,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258822.jpg,80,304,274,339,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,149,184,160,258,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,127,307,139,394,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,201,366,211,409,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,163,570,180,665,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,254,75,261,142,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258833.jpg,164,124,171,167,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258835.jpg,166,65,178,150,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258842.jpg,460,345,525,356,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258842.jpg,377,328,420,336,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258850.jpg,1,80,134,106,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258871.jpg,4,127,101,142,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258871.jpg,611,237,703,253,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258882.jpg,86,367,139,380,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258882.jpg,136,562,197,578,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258882.jpg,1,528,61,542,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258882.jpg,415,630,474,643,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258882.jpg,664,696,722,710,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258804.jpg,296,210,306,258,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258804.jpg,494,241,504,294,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,123,186,197,198,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,295,217,354,228,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,407,241,508,259,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,1,341,49,350,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258826.jpg,18,237,124,262,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258826.jpg,209,284,243,291,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258827.jpg,457,595,533,609,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258827.jpg,580,618,620,625,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258827.jpg,233,556,279,565,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258829.jpg,239,44,278,49,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258829.jpg,460,85,550,101,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258829.jpg,582,106,623,113,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,114,75,167,85,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,201,90,266,103,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,673,362,679,414,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,634,551,643,622,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258847.jpg,5,3,370,113,parking lot
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258849.jpg,246,434,308,446,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258854.jpg,232,12,246,86,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258854.jpg,402,57,410,102,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258854.jpg,391,126,398,163,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258854.jpg,298,532,319,652,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258874.jpg,741,532,743,622,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258874.jpg,735,718,739,768,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,164,113,219,128,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,407,176,467,192,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,742,263,768,269,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258898.jpg,372,179,447,189,driveway
-/Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258898.jpg,61,215,177,236,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,51,358,182,364,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,0,457,71,511,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,76,50,155,52,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,478,334,560,337,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265801.jpg,367,16,443,18,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265801.jpg,541,2,646,8,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265808.jpg,296,624,419,627,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265808.jpg,695,596,766,603,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265810.jpg,453,271,514,275,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265810.jpg,293,110,419,117,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265810.jpg,691,89,765,95,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265822.jpg,65,21,70,66,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265822.jpg,83,200,89,342,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265822.jpg,104,588,110,688,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265824.jpg,100,76,110,180,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265833.jpg,103,348,110,481,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265833.jpg,274,487,283,533,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,1,389,765,520,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,0,583,767,709,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265858.jpg,0,670,768,768,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265862.jpg,0,1,764,31,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265864.jpg,0,582,292,693,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265867.jpg,0,0,767,123,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265867.jpg,650,594,751,763,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265868.jpg,641,168,765,658,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265869.jpg,650,1,767,401,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,333,39,388,44,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,582,24,642,30,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265882.jpg,66,558,71,625,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265884.jpg,69,51,71,102,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265884.jpg,100,548,101,663,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265887.jpg,127,270,133,394,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,168,213,175,279,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,157,6,158,64,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,15,71,17,123,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,26,329,32,387,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,190,568,194,627,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265890.jpg,47,662,51,733,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265891.jpg,30,63,37,130,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265891.jpg,51,404,54,483,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265891.jpg,207,509,209,557,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265891.jpg,193,310,195,374,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265891.jpg,176,62,179,124,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265892.jpg,48,136,53,229,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265892.jpg,204,252,205,311,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265892.jpg,191,53,194,120,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,204,1,208,55,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,301,738,356,741,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,83,551,86,584,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,65,586,76,595,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,22,601,60,602,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,722,559,768,562,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265893.jpg,731,702,764,703,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265911.jpg,509,465,510,541,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265911.jpg,334,88,335,161,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265911.jpg,487,143,491,214,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265911.jpg,358,626,367,742,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265913.jpg,527,263,531,336,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265913.jpg,362,114,369,234,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265913.jpg,541,601,548,672,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265913.jpg,396,590,401,727,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265913.jpg,507,3,512,28,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,453,59,462,132,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,463,317,469,385,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,621,405,627,509,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,604,27,605,110,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,491,712,492,756,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265919.jpg,642,701,643,751,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265925.jpg,557,289,558,351,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265925.jpg,577,654,578,713,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265933.jpg,395,136,507,522,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265933.jpg,674,311,682,408,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265934.jpg,674,62,678,152,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265934.jpg,405,0,509,270,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265936.jpg,111,114,195,116,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265938.jpg,497,369,502,433,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265938.jpg,504,472,505,512,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265938.jpg,608,388,615,455,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265945.jpg,586,220,590,292,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265945.jpg,604,523,606,581,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265945.jpg,703,206,704,279,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265945.jpg,730,706,732,765,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265954.jpg,706,155,716,277,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,742,309,751,385,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,752,455,755,512,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265956.jpg,766,695,767,762,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265975.jpg,355,346,356,405,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265975.jpg,367,615,373,681,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265975.jpg,490,286,491,352,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265975.jpg,507,600,512,671,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,355,97,358,154,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,373,359,376,415,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,491,34,494,91,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,508,342,509,412,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,390,645,394,703,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265976.jpg,523,631,530,686,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265792.jpg,595,310,745,313,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265796.jpg,512,1,602,275,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265796.jpg,702,2,768,350,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265796.jpg,515,326,598,425,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265797.jpg,515,74,592,174,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265797.jpg,710,2,768,136,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265797.jpg,509,1,596,23,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,284,267,390,272,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,110,279,187,280,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,501,257,571,264,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,338,98,423,104,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,34,119,92,123,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265800.jpg,612,82,665,87,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,425,596,557,603,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,37,618,163,627,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265808.jpg,525,759,745,767,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265829.jpg,68,32,115,35,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265829.jpg,464,4,612,14,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265832.jpg,679,562,768,731,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265834.jpg,567,348,713,355,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265834.jpg,612,515,706,521,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265834.jpg,160,541,269,549,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265834.jpg,679,43,765,219,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,78,150,137,153,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,314,136,392,140,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,487,126,540,132,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,752,109,765,111,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,328,288,385,289,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265881.jpg,69,300,131,302,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265882.jpg,331,28,385,33,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265882.jpg,80,33,134,40,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,461,49,527,50,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,471,192,547,193,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,44,220,100,226,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,41,81,76,82,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,720,181,766,185,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265895.jpg,713,32,764,37,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265900.jpg,68,181,69,243,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265900.jpg,80,431,85,501,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265900.jpg,100,686,101,738,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265901.jpg,83,175,85,241,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265901.jpg,96,427,99,473,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265901.jpg,118,664,119,738,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,332,285,335,355,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,164,65,167,146,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,181,341,186,405,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,196,571,199,653,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,317,77,321,148,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265917.jpg,344,532,348,615,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265919.jpg,197,56,199,141,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265919.jpg,211,312,212,395,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265919.jpg,370,399,371,500,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265919.jpg,344,19,345,125,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,84,327,143,330,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,604,141,685,150,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,48,179,102,181,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,427,323,451,355,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,264,468,267,519,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265922.jpg,416,456,422,511,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265923.jpg,77,69,147,70,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265923.jpg,263,213,267,263,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265923.jpg,412,204,417,252,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265923.jpg,285,543,291,619,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265926.jpg,305,36,307,91,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265926.jpg,450,30,452,89,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265926.jpg,318,392,324,455,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265926.jpg,463,279,468,332,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265931.jpg,542,292,550,377,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265931.jpg,397,373,402,419,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265931.jpg,529,54,533,122,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265931.jpg,558,551,561,614,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265937.jpg,351,646,356,712,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265937.jpg,245,622,246,689,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265941.jpg,374,76,377,133,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265941.jpg,391,305,397,370,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265941.jpg,282,323,293,452,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265941.jpg,408,546,412,604,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,518,228,523,295,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,500,1,504,52,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,388,2,395,43,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,417,424,420,473,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,533,483,537,542,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,544,727,548,765,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265950.jpg,431,720,432,767,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,532,222,539,288,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,547,463,550,532,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,415,174,416,214,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,518,1,521,47,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,433,462,437,530,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265951.jpg,561,728,562,767,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,585,150,589,249,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,599,395,603,450,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,610,638,615,705,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,490,565,494,636,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,500,710,501,765,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265955.jpg,454,2,458,26,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,489,51,493,126,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,611,126,617,189,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,497,199,500,256,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,625,380,627,437,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,514,436,515,511,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,525,639,526,698,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265957.jpg,640,631,643,705,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,516,126,522,187,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,643,119,649,189,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,536,427,543,523,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,650,390,654,451,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,654,516,659,576,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265959.jpg,555,639,557,709,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265966.jpg,596,158,640,238,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265966.jpg,657,252,710,285,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265966.jpg,0,72,65,79,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265971.jpg,358,373,462,378,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265971.jpg,667,355,723,359,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265971.jpg,523,581,582,589,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,356,122,458,129,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,670,101,721,107,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855746/img/1855746_1265972.jpg,529,325,583,327,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265794.jpg,241,279,402,765,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265794.jpg,381,227,545,764,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265794.jpg,341,56,492,62,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265794.jpg,603,49,722,53,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,87,365,168,369,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,361,350,423,356,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,629,334,702,338,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,26,510,133,522,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,242,501,315,506,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265799.jpg,542,481,618,484,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265810.jpg,177,88,300,95,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265810.jpg,319,245,489,254,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265810.jpg,520,236,583,239,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265816.jpg,706,436,721,533,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265817.jpg,705,178,725,274,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,511,335,578,338,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,240,355,324,356,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,214,519,348,525,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265827.jpg,536,496,621,497,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265837.jpg,394,567,738,675,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265837.jpg,691,108,766,316,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265837.jpg,233,597,358,668,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265842.jpg,469,161,638,561,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265842.jpg,479,608,622,768,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265842.jpg,663,75,766,598,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265860.jpg,1,133,610,254,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265860.jpg,0,49,496,169,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265860.jpg,606,567,692,767,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265861.jpg,603,310,710,763,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265869.jpg,137,79,254,405,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265869.jpg,160,394,409,458,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265894.jpg,207,305,271,306,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265894.jpg,465,289,522,290,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265894.jpg,698,274,766,278,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265894.jpg,220,445,286,446,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265894.jpg,475,434,581,437,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265915.jpg,30,83,36,164,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265915.jpg,45,345,51,410,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265915.jpg,66,587,72,656,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265920.jpg,115,190,118,247,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265920.jpg,349,653,431,661,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265922.jpg,353,146,426,148,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265922.jpg,635,268,710,275,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,310,186,320,330,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,162,321,169,412,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,299,37,305,102,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265933.jpg,143,0,147,34,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265937.jpg,169,678,370,766,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265937.jpg,148,515,320,617,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265937.jpg,95,640,98,714,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265944.jpg,165,17,167,84,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265944.jpg,189,458,193,530,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265944.jpg,76,470,79,547,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265944.jpg,87,719,88,766,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,87,1,90,66,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,217,204,225,309,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,115,440,118,518,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,238,511,242,578,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265947.jpg,128,709,129,762,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,128,200,136,299,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,247,249,249,307,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,264,486,267,547,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,235,1,236,59,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,273,734,275,764,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265949.jpg,159,687,161,732,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,306,222,309,284,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,197,413,201,528,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,325,657,334,756,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265953.jpg,291,1,295,22,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,353,383,360,450,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,235,305,239,385,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,242,456,245,514,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,344,130,346,192,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,254,689,260,766,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265956.jpg,369,629,371,700,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265962.jpg,480,243,540,246,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265962.jpg,642,236,707,243,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265973.jpg,268,69,324,76,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855747/img/1855747_1265973.jpg,727,34,767,38,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,84,309,237,315,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,347,303,459,304,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,270,380,363,510,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265792.jpg,475,383,766,469,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,68,242,233,255,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,263,237,331,241,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265810.jpg,536,219,598,225,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,672,4,676,75,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,696,314,705,423,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,441,107,610,302,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,466,451,663,570,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,226,560,640,665,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,0,531,96,581,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,0,601,106,666,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265837.jpg,723,633,732,745,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,699,55,708,168,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,724,377,734,487,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,721,673,731,767,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,228,303,609,413,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,0,343,112,415,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,481,502,644,593,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,459,192,639,306,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265838.jpg,443,1,612,50,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,217,39,643,161,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,0,87,107,152,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,438,245,675,337,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,466,564,567,687,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,725,123,732,233,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,720,420,732,525,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265839.jpg,678,677,696,765,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265843.jpg,625,324,680,425,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265843.jpg,397,1,552,344,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265843.jpg,209,1,369,308,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265843.jpg,206,315,361,542,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,525,336,549,767,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,630,3,643,271,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,651,332,668,653,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,376,117,480,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,557,259,664,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265858.jpg,0,646,406,755,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,529,80,558,592,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,652,70,669,390,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,0,389,413,504,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,0,304,249,410,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,0,118,116,229,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265859.jpg,659,442,739,768,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265867.jpg,124,334,290,344,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265867.jpg,0,0,239,81,parking lot
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265955.jpg,71,142,76,252,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265955.jpg,83,388,87,455,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265955.jpg,97,639,101,705,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265971.jpg,153,358,210,364,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265971.jpg,457,329,524,335,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265971.jpg,13,574,70,580,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265971.jpg,471,535,594,545,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265973.jpg,11,62,71,70,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265973.jpg,468,21,593,31,driveway
+/content/retinanet/retinanet/labelled_images/adelaide_1855748/img/1855748_1265983.jpg,674,82,733,87,driveway
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279103.jpg,344,116,512,612,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279103.jpg,259,614,382,765,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279119.jpg,267,554,510,767,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279122.jpg,197,2,420,136,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279122.jpg,332,53,512,296,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279122.jpg,0,336,261,649,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279130.jpg,27,1,214,97,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889077/img/1889077_1279130.jpg,79,716,185,768,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279061.jpg,463,213,768,460,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279061.jpg,116,0,310,117,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279066.jpg,667,182,736,223,driveway
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279066.jpg,0,0,379,258,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279066.jpg,1,202,651,664,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279079.jpg,0,95,380,448,parking lot
+/content/retinanet/retinanet/labelled_images/bendigo__1889078/img/1889078_1279094.jpg,328,3,387,379,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258783.jpg,276,160,300,213,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258789.jpg,255,20,346,46,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258789.jpg,329,260,404,279,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258800.jpg,291,1,457,261,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258800.jpg,50,645,120,675,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258808.jpg,94,0,391,125,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258808.jpg,291,118,417,268,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929374/img/1929374_1258856.jpg,430,13,453,128,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258783.jpg,272,156,295,211,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258788.jpg,257,276,342,302,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258788.jpg,330,514,419,542,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258795.jpg,387,667,403,737,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258797.jpg,386,152,404,221,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258801.jpg,45,384,121,420,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258810.jpg,680,0,714,144,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258837.jpg,1,0,653,741,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258837.jpg,182,17,768,750,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258843.jpg,478,4,586,91,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258843.jpg,0,174,164,384,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258852.jpg,528,411,541,535,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258854.jpg,433,530,450,642,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,147,439,201,525,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,602,517,767,620,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,511,499,576,512,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,191,649,234,652,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,101,635,156,642,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,294,666,339,671,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,399,683,438,688,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,494,698,529,704,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258864.jpg,624,717,692,731,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,191,136,236,144,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,296,152,338,162,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,397,171,440,176,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,491,190,534,195,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,103,129,155,135,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,624,218,686,228,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,608,3,768,107,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929375/img/1929375_1258866.jpg,430,0,484,69,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258788.jpg,0,277,95,303,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258788.jpg,177,546,436,621,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258788.jpg,79,513,158,544,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258796.jpg,175,551,321,768,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258798.jpg,165,41,325,332,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258799.jpg,163,0,272,85,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258799.jpg,24,157,230,518,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258805.jpg,152,114,431,303,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258805.jpg,177,358,378,721,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,172,104,369,461,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,1,480,142,633,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258806.jpg,45,633,146,764,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258814.jpg,74,289,107,417,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258836.jpg,59,76,751,768,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258836.jpg,0,32,538,703,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258841.jpg,122,303,197,320,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258841.jpg,223,417,350,611,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258842.jpg,220,162,347,348,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258842.jpg,126,44,208,66,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258845.jpg,638,9,653,97,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258845.jpg,607,190,620,256,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258845.jpg,748,646,757,698,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258853.jpg,275,149,287,223,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258853.jpg,504,129,507,173,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258860.jpg,560,231,593,238,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258862.jpg,741,329,768,333,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,366,475,431,485,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,234,451,275,458,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,137,433,180,440,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,38,417,83,422,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,256,242,305,250,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,354,257,533,363,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258865.jpg,177,227,230,311,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929376/img/1929376_1258867.jpg,490,734,496,768,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258777.jpg,612,173,631,214,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258787.jpg,720,479,747,571,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258788.jpg,0,567,172,619,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258788.jpg,716,232,744,322,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258790.jpg,3,59,170,105,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258826.jpg,705,27,727,105,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258826.jpg,401,393,567,767,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258826.jpg,311,393,469,761,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258827.jpg,462,543,523,767,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258827.jpg,412,0,612,510,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258827.jpg,290,0,495,557,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258835.jpg,0,281,285,657,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258835.jpg,76,343,502,768,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258835.jpg,194,70,236,140,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258838.jpg,0,0,125,186,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258840.jpg,689,571,766,594,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258841.jpg,685,319,765,339,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258843.jpg,376,520,393,614,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258843.jpg,562,708,570,767,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258843.jpg,351,698,361,766,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,460,323,470,382,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,492,134,500,187,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,430,521,436,570,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258847.jpg,397,722,404,767,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258848.jpg,423,267,429,308,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258848.jpg,456,69,465,128,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258848.jpg,400,461,405,503,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929377/img/1929377_1258862.jpg,484,328,561,337,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258785.jpg,411,393,451,530,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258786.jpg,409,140,448,267,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258786.jpg,527,540,547,611,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258789.jpg,461,0,481,66,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258810.jpg,0,0,113,120,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258826.jpg,611,247,633,325,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258826.jpg,562,435,579,499,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258845.jpg,296,200,313,299,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258845.jpg,270,455,275,492,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258845.jpg,236,652,247,700,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258845.jpg,95,190,107,259,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258845.jpg,124,8,141,105,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258847.jpg,239,131,248,187,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258847.jpg,199,316,213,384,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258847.jpg,171,529,177,564,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258847.jpg,136,716,143,766,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,615,382,662,390,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,224,314,280,326,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,629,595,687,603,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,292,337,363,422,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,413,357,605,458,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258865.jpg,673,399,740,488,parking lot
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258867.jpg,617,81,683,92,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258867.jpg,205,565,213,622,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258868.jpg,205,307,216,367,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258868.jpg,173,563,182,604,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258868.jpg,146,732,154,765,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,206,51,216,116,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,173,306,180,350,driveway
+/content/retinanet/retinanet/labelled_images/roseberry__1929378/img/1929378_1258869.jpg,145,472,154,511,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258817.jpg,616,423,627,483,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258817.jpg,651,209,667,304,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258817.jpg,697,16,713,87,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258817.jpg,476,178,486,226,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258825.jpg,261,409,274,499,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258825.jpg,292,176,311,275,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258827.jpg,339,427,387,434,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258827.jpg,136,563,150,644,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258828.jpg,341,169,387,176,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258828.jpg,136,287,153,391,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258828.jpg,100,566,106,591,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258863.jpg,58,278,132,364,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258863.jpg,156,394,272,535,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258864.jpg,55,22,124,107,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258864.jpg,159,136,272,279,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258867.jpg,132,265,174,332,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258867.jpg,53,395,96,460,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,363,227,425,246,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,508,269,574,282,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,647,300,708,317,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,601,108,650,120,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,429,68,479,82,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258883.jpg,89,156,236,191,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258892.jpg,371,338,433,349,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258892.jpg,563,370,619,378,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258892.jpg,205,314,279,325,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929664/img/1929664_1258892.jpg,1,276,65,287,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258805.jpg,1,244,50,258,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258805.jpg,669,675,682,739,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258806.jpg,653,417,679,548,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258806.jpg,40,3,67,8,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,344,212,355,272,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,265,640,276,695,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,255,729,262,765,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,281,569,289,613,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,570,124,578,161,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,553,202,562,255,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258814.jpg,498,518,509,571,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258817.jpg,442,14,455,86,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258817.jpg,398,212,416,310,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258817.jpg,369,426,377,476,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258817.jpg,328,603,353,755,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258817.jpg,114,570,123,631,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258820.jpg,635,699,710,713,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258820.jpg,282,161,299,258,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258821.jpg,338,566,555,606,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258821.jpg,635,445,710,459,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258826.jpg,83,689,132,700,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258826.jpg,297,730,349,740,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258826.jpg,13,154,26,246,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258834.jpg,382,71,395,139,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258834.jpg,396,3,406,55,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258834.jpg,459,106,467,153,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258834.jpg,357,235,367,297,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258834.jpg,418,316,434,417,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258847.jpg,337,3,767,86,parking lot
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258847.jpg,43,698,102,705,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258871.jpg,166,112,239,126,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258871.jpg,262,129,354,146,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,176,578,224,590,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,346,622,394,633,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258881.jpg,104,742,175,760,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,173,324,227,337,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,345,367,396,378,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,103,490,171,507,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,249,526,319,542,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,389,562,452,576,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258882.jpg,672,630,730,645,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258885.jpg,218,576,340,755,parking lot
+/content/retinanet/retinanet/labelled_images/coogee__1929665_001/img/1929665_1258886.jpg,221,320,341,500,parking lot
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258807.jpg,404,223,416,289,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258807.jpg,418,157,429,219,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258818.jpg,141,0,149,50,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258818.jpg,111,167,117,199,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258818.jpg,73,348,89,433,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258820.jpg,25,152,40,247,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258841.jpg,461,604,527,613,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258841.jpg,371,588,420,597,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258883.jpg,418,371,478,387,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258883.jpg,668,433,722,447,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258883.jpg,138,303,204,320,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258883.jpg,2,265,61,282,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258883.jpg,89,106,136,117,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258894.jpg,590,122,661,134,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929666/img/1929666_1258894.jpg,467,101,524,111,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258804.jpg,296,210,306,258,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258804.jpg,494,241,504,294,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258807.jpg,162,160,175,225,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258807.jpg,149,230,161,296,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,123,186,197,198,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,295,217,354,228,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,407,241,508,259,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258822.jpg,1,341,49,350,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258826.jpg,18,237,124,262,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258826.jpg,209,284,243,291,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258828.jpg,239,299,282,305,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258828.jpg,457,337,549,356,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258828.jpg,580,360,621,367,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258832.jpg,584,110,642,120,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258832.jpg,672,126,729,137,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,114,75,167,85,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,201,90,266,103,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,673,362,679,414,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258843.jpg,634,551,643,622,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258848.jpg,236,686,297,697,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258849.jpg,246,434,308,446,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258855.jpg,300,272,322,399,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258870.jpg,356,494,448,513,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258875.jpg,739,278,742,368,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258875.jpg,738,459,741,532,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258875.jpg,726,681,733,763,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,164,113,219,128,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,407,176,467,192,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258884.jpg,742,263,768,269,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258898.jpg,372,179,447,189,driveway
+/content/retinanet/retinanet/labelled_images/coogee__1929667/img/1929667_1258898.jpg,61,215,177,236,driveway
