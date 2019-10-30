@@ -1,3 +1,4 @@
+path,x_start,y_start,x_finish,y_finish,class_title
 /Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,51,358,182,364,driveway
 /Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,0,457,71,511,parking lot
 /Users/neeliyer/Documents/SPOT/retinanet/retinanet/labelled_images/adelaide_1855745/img/1855745_1265792.jpg,76,50,155,52,driveway

@@ -1,12 +1,12 @@
 #delete first row of csv file
 
-with open("train_annotations.csv",'r') as f:
+with open("train_annotations_spacenet.csv",'r') as f:
     with open("aerial_pedestrian_detection-master/train_annotations_new_data.csv",'w') as f1:
         next(f) # skip header line
         for line in f:
             f1.write(line)
 
-with open("test_annotations.csv",'r') as f:
+with open("test_annotations_spacenet.csv",'r') as f:
     with open("aerial_pedestrian_detection-master/test_annotations_new_data.csv",'w') as f1:
         next(f) # skip header line
         for line in f:

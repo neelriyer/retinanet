@@ -213,7 +213,10 @@ for x in x_files:
 		path = os.getcwd()+'/labelled_images/'+str(x)+'/ann/' + file
 		#print(path)
 
-		df = df.append(JSON_to_dataframe(path, x), ignore_index = True)
+		new_df = JSON_to_dataframe(path, x)
+
+
+		df = df.append(new_df, ignore_index = True)
 
 
 
@@ -226,6 +229,6 @@ if(df is not None):
 	df['y_finish'] = df['y_finish'].apply(lambda row: int(row))
 	#print(df)
 
-	df.to_csv(os.getcwd()+'/'+Dataset+'/'+'retinanet_data'+'.csv', header=True, index=None, sep=',', mode='a')
+	df.to_csv(os.getcwd()+'/'+Dataset+'/'+'retinanet_data_supervisely'+'.csv', header=True, index=None, sep=',', mode='a')
 
 

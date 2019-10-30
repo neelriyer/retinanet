@@ -32,6 +32,27 @@ new_data = data[['path', 'x_start', 'y_start', 'x_finish', 'y_finish', 'class_ti
 #convert to float type
 new_data = type_conversion(new_data, ['x_start', 'y_start', 'x_finish', 'y_finish'])
 
+new_data['x_start'] = new_data['x_start'].apply(lambda row: int(row))
+new_data['y_start'] = new_data['y_start'].apply(lambda row: int(row))
+new_data['x_finish'] = new_data['x_finish'].apply(lambda row: int(row))
+new_data['y_finish'] = new_data['y_finish'].apply(lambda row: int(row))
+
 #export
 new_data.to_csv(os.getcwd()+'/processed_JSON/retinanet_data_spacenet.csv', header=True, index=None, sep=',')
 
+
+#merged
+"""
+def merge_csv (df1, df2):
+
+	final_df = df1.append(df2)
+	print(final_df)
+
+	final_df.to_csv(os.getcwd()+'/processed_JSON/retinanet_data.csv', header=True, index=None, sep=',')
+
+#df1 = pd.read_csv('/Users/neeliyer/Documents/SPOT/retinanet/retinanet/processed_JSON/retinanet_data_spacenet.csv')
+#df2 = pd.read_csv('/Users/neeliyer/Documents/SPOT/retinanet/retinanet/processed_JSON/retinanet_data_supervisely.csv')
+#merge_csv (df1, df2)
+
+
+"""

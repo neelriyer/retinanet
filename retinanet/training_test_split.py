@@ -7,7 +7,7 @@ import numpy as np
 import os
 
 #read csv
-df = pd.read_csv(os.getcwd()+'/processed_JSON/retinanet_data.csv')
+df = pd.read_csv(os.getcwd()+'/processed_JSON/retinanet_data_supervisely.csv')
 
 
 #function to get x and y coordinates from image path
