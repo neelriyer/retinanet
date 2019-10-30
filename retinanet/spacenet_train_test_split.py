@@ -19,22 +19,80 @@ def train_test_split(new_df):
 
 	return train, test
 
-def convert_cols_to_int(df):
-	df['x_start'] = df['x_start'].apply(lambda row: int(row))
-	df['y_start'] = df['y_start'].apply(lambda row: int(row))
-	df['x_finish'] = df['x_finish'].apply(lambda row: int(row))
-	df['y_finish'] = df['y_finish'].apply(lambda row: int(row))
+#function to get picture name
+def get_image_name(df):
+
+	df['image'] = None
+	for index, row in df.iterrows():
+
+		#get image
+		df['image'][index] = str(df['path'][index].split('/')[-1].split('.')[0])
 
 	return df
 
-#split
-train_to_append, test_to_append = train_test_split(df)
+#function to create new unique dataframe that drops duplicates
+def create_new_unqiue_df(df):
 
-print(train_to_append.head())
-print(test_to_append.head())
+	#create new dataframe of only image
+	new_df = pd.DataFrame()
+	new_df['image'] = df['image'].astype(str)
 
-print(train_existing.head())
-print(test_existing.head())
+	#drop duplicates from new_df
+	new_df = new_df.drop_duplicates(subset=['image'], keep='first') 
+
+	#reindex dataframe
+	new_df.index = [x for x in range(len(new_df))]
+
+	return new_df
+
+# get picture name
+df = get_image_name(df)
+print(df.head())
+
+new_df = create_new_unqiue_df(df)
+print(new_df)
+
+train, test = train_test_split(new_df)
+print(len(train))
+print(len(test))
+print(len(new_df))
+
+#TRAINGIN SET
+
+print('training set')
+print(train.head())
+
+#inner join with df
+training_df = pd.merge(left=train,right=df, left_on='image', right_on='image')
+
+
+print('\n\ntraining set')
+print(training_df[['image', 'class_title']].head(10))
+
+
+
+#TESTING SET
+#left join with df
+print('\n\ntesting set')
+print(test.head())
+
+#inner join with df
+testing_df = pd.merge(left=test,right=df, left_on='image', right_on='image')
+
+
+print('\n\ntest set')
+print(testing_df[['image','class_title']].head(10))
+
+#check
+if(len(testing_df)+len(training_df)==len(df)):
+	print("train test completed successfully")
+else:
+	raise "error occured"
+
+
+#NOW APPEND NEW DATA TO OLD DATA
+train_to_append = training_df.drop('image', axis = 1)
+test_to_append = testing_df.drop('image', axis = 1)
 
 
 #append
@@ -42,9 +100,8 @@ train = train_existing.append(train_to_append)
 test = test_existing.append(test_to_append)
 
 print('after append')
-print(train.head())
-print(test.head())
-
+print(train['path'].apply(lambda text: text.split('/')[-1]))
+print(test['path'].apply(lambda text: text.split('/')[-1]))
 
 
 
@@ -58,7 +115,5 @@ if os.path.exists(os.getcwd()+'/test_annotations_spacenet.csv'):
 #to csv
 test.to_csv(os.getcwd()+'/train_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
 train.to_csv(os.getcwd()+'/test_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
-
-
 
 
