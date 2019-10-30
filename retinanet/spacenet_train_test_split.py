@@ -10,9 +10,9 @@ train_existing = pd.read_csv(os.getcwd()+'/train_annotations.csv')
 test_existing = pd.read_csv(os.getcwd()+'/test_annotations.csv')
 
 
-def train_test_split(new_df):
+def train_test_split(new_df, split):
 
-	msk = np.random.rand(len(new_df)) < 0.8
+	msk = np.random.rand(len(new_df)) < split
 	train = new_df[msk]
 	test = new_df[~msk]
 
@@ -52,7 +52,7 @@ print(df.head())
 new_df = create_new_unqiue_df(df)
 print(new_df)
 
-train, test = train_test_split(new_df)
+train, test = train_test_split(new_df, 0.9)
 print(len(train))
 print(len(test))
 print(len(new_df))
@@ -113,7 +113,7 @@ if os.path.exists(os.getcwd()+'/test_annotations_spacenet.csv'):
 	os.remove(os.getcwd()+'/test_annotations_spacenet.csv')
 
 #to csv
-test.to_csv(os.getcwd()+'/train_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
-train.to_csv(os.getcwd()+'/test_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
+train.to_csv(os.getcwd()+'/train_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
+test.to_csv(os.getcwd()+'/test_annotations_spacenet.csv', header=True, index=None, sep=',', mode='a')
 
 

@@ -45,9 +45,9 @@ def create_new_unqiue_df(df):
 
 #create train and test
 #split into train and test
-def train_test_split(new_df):
+def train_test_split(new_df, split):
 
-	msk = np.random.rand(len(new_df)) < 0.8
+	msk = np.random.rand(len(new_df)) < split
 	train = new_df[msk]
 	test = new_df[~msk]
 
@@ -64,7 +64,7 @@ new_df = create_new_unqiue_df(df)
 
 
 #split into training and test
-train, test = train_test_split(new_df)
+train, test = train_test_split(new_df, 0.9)
 
 
 #TRAINGIN SET
@@ -120,8 +120,8 @@ print(len(testing_df))
 print(len(training_df))
 
 #write to csv
-testing_df.to_csv(os.getcwd()+'/train_annotations.csv', header=True, index=None, sep=',', mode='a')
-training_df.to_csv(os.getcwd()+'/test_annotations.csv', header=True, index=None, sep=',', mode='a')
+training_df.to_csv(os.getcwd()+'/train_annotations.csv', header=True, index=None, sep=',', mode='a')
+testing_df.to_csv(os.getcwd()+'/test_annotations.csv', header=True, index=None, sep=',', mode='a')
 
 
 
