@@ -9,3 +9,5 @@ pip install . --user
 echo "setup.py"
 python setup.py build_ext --inplace
 
+cd /
+
