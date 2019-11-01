@@ -56,12 +56,20 @@ def context_creator(x_start, y_start, x_finish, y_finish):
 		y_start = y_start - 10
 		y_finish = y_finish + 10
 
+		#slightly elongate in x
+		x_start = x_start - 5
+		x_finish = x_finish + 5
+
 	#if longer in y than x
 	if(y_distance > x_distance):
 
 		#elongate in x
 		x_start = x_start - 10
 		x_finish = x_finish + 10
+
+		#slighly elongate in y
+		y_start = y_start - 5
+		y_finish = y_finish + 5
 
 
 	return x_start, y_start, x_finish, y_finish
