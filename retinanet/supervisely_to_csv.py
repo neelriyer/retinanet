@@ -2,7 +2,7 @@
 #supervisely_to_csv.py
 #read data from superisely images and convert to csv file for retinanet model
 
-
+import cv2
 import os
 import json
 import pandas as pd
@@ -44,7 +44,12 @@ def calculate_angle(y_distance, x_distance):
 
 
 #get context around each driveway
-def context_creator(x_start, y_start, x_finish, y_finish):
+def context_creator(x_start, y_start, x_finish, y_finish, path_to_img):
+
+
+	#get size of image
+	img = cv2.imread(path_to_img,0)
+	height, width = img.shape[:2]
 
 	#find long side
 	x_distance = abs(x_finish-x_start)
@@ -54,61 +59,40 @@ def context_creator(x_start, y_start, x_finish, y_finish):
 	if(x_distance > y_distance):
 
 		#elongate in y
-		y_start = y_start - 10
-		y_finish = y_finish + 10
+		if(y_start - 10>=0):
+			y_start = y_start - 10
+
+		if(y_finish + 10<=height):
+			y_finish = y_finish + 10
 
 		#slightly elongate in x
-		x_start = x_start - 5
-		x_finish = x_finish + 5
+		if(x_start - 3>=0):
+			x_start = x_start - 3
+
+		if(x_finish + 3 <=width):
+			x_finish = x_finish + 3
 
 	#if longer in y than x
 	if(y_distance > x_distance):
 
 		#elongate in x
-		x_start = x_start - 10
-		x_finish = x_finish + 10
+		if(x_start - 10>=0):
+			x_start = x_start - 10
+
+		if(x_finish + 10 <=width):
+			x_finish = x_finish + 10
 
 		#slighly elongate in y
-		y_start = y_start - 5
-		y_finish = y_finish + 5
+		if(y_start - 3>=0):
+			y_start = y_start - 3
+
+		if(y_finish + 3<=height):
+			y_finish = y_finish + 3
 
 
 	return x_start, y_start, x_finish, y_finish
 
 
-#function to create bounding box from driveways line
-#(use bbox instead)
-def bbox_driveways_line(points):
-
-	#get starts and finishes
-	start = points[0]
-	finish = points[1]
-
-	#get x and y coords
-	x_coords = [start[0], finish[0]]
-	y_coords = [start[1], finish[1]]
-
-	#get bottom left and top right
-	bottom_left = [min(x_coords), min(y_coords)]
-	top_right = [max(x_coords), max(y_coords)]
-
-	#initialise x and y starts and finishes
-	x_start = bottom_left[0]
-	y_start = bottom_left[1]
-	x_finish = top_right[0]
-	y_finish = top_right[1]
-
-	#if x_start is equal to x_finish increment x_finish by 1
-	if(x_start==x_finish):
-		x_finish = x_finish + 1
-
-	#if y_start is equal to y_finish increment y_finish by 1
-	if(y_start==y_finish):
-		y_finish = y_finish + 1
-
-
-
-	return x_start, y_start, x_finish, y_finish
 
 #function to return max width and height of bounding box
 #creates an all encompasing bounding box
@@ -186,11 +170,13 @@ def JSON_to_dataframe(path, folder_name):
 				print('driveway detected')
 				print(points)
 
+				# get x and y starts and finishes
 				x_start, y_start, x_finish, y_finish = bbox(points)
+
 
 				#CHANGE THIS ONE LINE LATER IF NEED BE
 				#INCREASES SIZE OF DRIVEWAYS
-				x_start, y_start, x_finish, y_finish = context_creator(x_start, y_start, x_finish, y_finish) 
+				x_start, y_start, x_finish, y_finish = context_creator(x_start, y_start, x_finish, y_finish, path_to_img) 
 
 				#print out x_start, y_start, x_finish, y_finish
 				print('x_start is ' + str(x_start))
