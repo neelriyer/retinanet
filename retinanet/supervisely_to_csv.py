@@ -42,6 +42,7 @@ def calculate_angle(y_distance, x_distance):
 	return angle
 
 
+
 #get context around each driveway
 def context_creator(x_start, y_start, x_finish, y_finish):
 
@@ -186,6 +187,9 @@ def JSON_to_dataframe(path, folder_name):
 				print(points)
 
 				x_start, y_start, x_finish, y_finish = bbox(points)
+
+				#CHANGE THIS ONE LINE LATER IF NEED BE
+				#INCREASES SIZE OF DRIVEWAYS
 				x_start, y_start, x_finish, y_finish = context_creator(x_start, y_start, x_finish, y_finish) 
 
 				#print out x_start, y_start, x_finish, y_finish

@@ -1,1 +1,1 @@
-{"description": "", "tags": [], "size": {"height": 768, "width": 512}, "objects": []}
+{"description": "", "tags": [], "size": {"height": 768, "width": 512}, "objects": [{"description": "", "bitmap": null, "tags": [], "classTitle": "Poly", "points": {"exterior": [[354, 221], [381, 264], [2, 508], [2, 444]], "interior": []}}, {"description": "", "bitmap": null, "tags": [], "classTitle": "Poly", "points": {"exterior": [[510, 534], [154, 768], [235, 766], [510, 588]], "interior": []}}]}

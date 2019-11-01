@@ -1,1 +1,1 @@
-{"description": "", "tags": [], "size": {"height": 768, "width": 768}, "objects": []}
+{"description": "", "tags": [], "size": {"height": 768, "width": 768}, "objects": [{"description": "", "bitmap": null, "tags": [], "classTitle": "Poly", "points": {"exterior": [[317, 51], [383, 60], [330, 435], [255, 434]], "interior": []}}, {"description": "", "bitmap": null, "tags": [], "classTitle": "driveways_line", "points": {"exterior": [[616, 395], [696, 357]], "interior": []}}]}
