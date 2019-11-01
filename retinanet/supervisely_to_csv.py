@@ -41,6 +41,32 @@ def calculate_angle(y_distance, x_distance):
 
 	return angle
 
+
+#get context around each driveway
+def context_creator(x_start, y_start, x_finish, y_finish):
+
+	#find long side
+	x_distance = abs(x_finish-x_start)
+	y_distance = abs(y_finish-y_start)
+
+	#if longer in x than y
+	if(x_distance > y_distance):
+
+		#elongate in y
+		y_start = y_start - 10
+		y_finish = y_finish + 10
+
+	#if longer in y than x
+	if(y_distance > x_distance):
+
+		#elongate in x
+		x_start = x_start - 10
+		x_finish = x_finish + 10
+
+
+	return x_start, y_start, x_finish, y_finish
+
+
 #function to create bounding box from driveways line
 #(use bbox instead)
 def bbox_driveways_line(points):
@@ -70,6 +96,8 @@ def bbox_driveways_line(points):
 	#if y_start is equal to y_finish increment y_finish by 1
 	if(y_start==y_finish):
 		y_finish = y_finish + 1
+
+
 
 	return x_start, y_start, x_finish, y_finish
 
@@ -150,6 +178,7 @@ def JSON_to_dataframe(path, folder_name):
 				print(points)
 
 				x_start, y_start, x_finish, y_finish = bbox(points)
+				x_start, y_start, x_finish, y_finish = context_creator(x_start, y_start, x_finish, y_finish) 
 
 				#print out x_start, y_start, x_finish, y_finish
 				print('x_start is ' + str(x_start))
