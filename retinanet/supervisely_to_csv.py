@@ -46,7 +46,6 @@ def calculate_angle(y_distance, x_distance):
 #get context around each driveway
 def context_creator(x_start, y_start, x_finish, y_finish, path_to_img):
 
-
 	#get size of image
 	img = cv2.imread(path_to_img,0)
 	height, width = img.shape[:2]
