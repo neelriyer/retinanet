@@ -20,8 +20,8 @@ Focal Loss is an improvement on cross-entropy loss that helps to reduce the rela
 
 # Dataset
 - [spacenet dataset](https://spacenetchallenge.github.io/datasets/spacenetRoads-summary.html) 
-- ![nearmap imagery] (https://www.nearmap.com/au/en)
-- ![eagleview imagery] (https://www.eagleview.com/)
+- [nearmap imagery](https://www.nearmap.com/au/en)
+- [eagleview imagery](https://www.eagleview.com/)
 
 # More Screenshots
 
