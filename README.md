@@ -36,7 +36,10 @@ Focal Loss is an improvement on cross-entropy loss that helps to reduce the rela
 Training, inference and validation was mostly done in google colab. Training used the NVIDIA Tesla K80 GPU and inference uses the same GPU. The validation notebook uses Intersection over Union for bounding boxes in order to work out precision, recall and f1_score. 
 
 Notebooks for this are availiable below.
+
 Training: https://colab.research.google.com/drive/1iWFUw1arJVmIhkzOXEASYZs3iBuYwPzi
+
 Inference: https://colab.research.google.com/drive/1EropOnvawLHd8ylgAWM0gZh6LqtLUPyV
+
 Validation (precision, recall, accuracy): https://colab.research.google.com/drive/1ZMRVnz0DmNxK4SYPG2KxKKtSxf6Yeqrx
 
